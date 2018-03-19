@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="693ab8e9-8e6c-47ba-92fe-ec43c596261a" name="www.reaqua" url="http://dev.www.reaqua.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="eef70f4f-f54f-461d-8ea2-795da7b6c33b" name="index.php" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
