@@ -7,6 +7,9 @@
       <webServer id="eef70f4f-f54f-461d-8ea2-795da7b6c33b" name="index.php" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1a9e254b-75e3-47a4-8578-9a01e76c7b6f" name="admin.reaqua" url="http://dev.admin.reaqua.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
