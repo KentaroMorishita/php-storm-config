@@ -3,11 +3,10 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.php" />
-        <option value="scratch.html" />
+        <option value="ヤマト集荷依頼.xml" />
+        <option value="特殊品テーブル作成.sql" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.php" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
