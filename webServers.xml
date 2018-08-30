@@ -10,6 +10,9 @@
       <webServer id="1a9e254b-75e3-47a4-8578-9a01e76c7b6f" name="admin.reaqua" url="http://dev.admin.reaqua.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6cdc144f-885f-4dbb-808d-3336bb20d7ac" name="localhost" url="http://localhost:3000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
