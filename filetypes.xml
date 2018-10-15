@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="edge" type="Blade" />
       <mapping pattern="*.js.snap" type="HTML" />
       <mapping pattern="InquiriesMixin" type="JavaScript" />
-      <mapping pattern="bitbucket-rmcvc-deploy-key" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="bitbucket-rmcvc-deploy-key" type="PLAIN_TEXT" />
+      <mapping pattern=".json-log-viewer" type="PLAIN_TEXT" />
       <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern=".json-log-viewer" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
