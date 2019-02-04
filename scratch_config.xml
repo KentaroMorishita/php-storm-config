@@ -10,6 +10,7 @@
         <option value="test2.xml" />
         <option value="scratch.jade" />
         <option value="scratch.json" />
+        <option value="scratch.xml" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="test.xml" />
