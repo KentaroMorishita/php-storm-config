@@ -11,6 +11,7 @@
         <option value="scratch.jade" />
         <option value="scratch.json" />
         <option value="scratch.xml" />
+        <option value="scratch.sql" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="scratch.xml" />
