@@ -1,0 +1,23 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
