@@ -6,7 +6,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="バージョン管理">
@@ -38,7 +38,7 @@
           <IdeaActionID>Activate実行ToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>実行</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="宣言">
