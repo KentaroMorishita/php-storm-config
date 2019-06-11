@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>宣言</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
     </option>
