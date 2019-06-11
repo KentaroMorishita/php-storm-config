@@ -14,7 +14,7 @@
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>バージョン管理</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="プロジェクト">
@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>宣言</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
     </option>
