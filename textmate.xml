@@ -3,12 +3,18 @@
     <option name="themesMapping">
       <map>
         <entry key="All hallow's eve" value="Monokai" />
+        <entry key="Arc Dark" value="Mac Classic" />
         <entry key="Atom One Dark" value="Monokai" />
+        <entry key="Atom One Light" value="Mac Classic" />
         <entry key="Blackboard" value="Monokai" />
         <entry key="Cobalt" value="Monokai" />
         <entry key="Darcula" value="Monokai" />
         <entry key="Default" value="Monokai" />
+        <entry key="Dracula" value="Mac Classic" />
+        <entry key="GitHub (Material)" value="Mac Classic" />
+        <entry key="High сontrast" value="Mac Classic" />
         <entry key="Material Darker" value="Monokai" />
+        <entry key="Material Deep Ocean" value="Mac Classic" />
         <entry key="Material Lighter" value="Monokai" />
         <entry key="Material Monokai Pro" value="Monokai" />
         <entry key="Material Oceanic" value="Monokai" />
@@ -17,6 +23,7 @@
         <entry key="Material Solarized Dark" value="Mac Classic" />
         <entry key="Material Solarized Light" value="Mac Classic" />
         <entry key="Monokai" value="Monokai" />
+        <entry key="Monokai Pro" value="Mac Classic" />
         <entry key="Railscasts" value="Monokai" />
         <entry key="Solarized Dark" value="Monokai" />
         <entry key="Solarized Light" value="Monokai" />
