@@ -25,12 +25,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="使用箇所の検索">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>使用箇所の検索</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="実行">
         <Item>
           <IdeaActionID>Activate実行ToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>実行</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="宣言">
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>宣言</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
