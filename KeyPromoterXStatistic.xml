@@ -65,6 +65,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="相対パスのコピー">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>相対パスのコピー</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="行ブレークポイントの切り替え">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
