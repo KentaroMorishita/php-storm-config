@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="すべてのウィンドウを閉じる">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>すべてのウィンドウを閉じる</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="バージョン管理">
         <Item>
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>ActivateプロジェクトToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>プロジェクト</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="使用箇所の検索">
