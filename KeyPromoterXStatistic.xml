@@ -30,7 +30,7 @@
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>バージョン管理</Description>
-          <Count>88</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="プロジェクト">
@@ -62,7 +62,15 @@
           <IdeaActionID>Activate実行ToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>実行</Description>
-          <Count>10</Count>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="実行 'lintfix'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>実行 'lintfix'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="宣言">
