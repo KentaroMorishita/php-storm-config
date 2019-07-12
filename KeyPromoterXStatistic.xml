@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="すべてのウィンドウを閉じる">
@@ -30,7 +30,7 @@
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>バージョン管理</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="プロジェクト">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>宣言</Description>
-          <Count>41</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="戻す...">
