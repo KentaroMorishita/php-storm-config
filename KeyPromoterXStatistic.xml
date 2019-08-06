@@ -22,7 +22,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>すべてのウィンドウを閉じる</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="バージョン管理">
@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateプロジェクトToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>プロジェクト</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="使用箇所の検索">
