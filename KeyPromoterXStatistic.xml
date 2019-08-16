@@ -25,12 +25,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="デフォルト・レイアウトの復元">
+        <Item>
+          <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
+          <ShortCut>'⇧F12'</ShortCut>
+          <Description>デフォルト・レイアウトの復元</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="バージョン管理">
         <Item>
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>バージョン管理</Description>
-          <Count>122</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="プロジェクト">
