@@ -54,7 +54,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>使用箇所の検索</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="削除...">
@@ -118,7 +118,7 @@
           <IdeaActionID>Activate検索ToolWindow</IdeaActionID>
           <ShortCut>'⌘+3'</ShortCut>
           <Description>検索</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="構造">
