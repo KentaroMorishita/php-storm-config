@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateプロジェクトToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>プロジェクト</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="使用箇所の検索">
@@ -126,7 +126,7 @@
           <IdeaActionID>Activate構造ToolWindow</IdeaActionID>
           <ShortCut>'⌘+7'</ShortCut>
           <Description>構造</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="相対パスのコピー">
