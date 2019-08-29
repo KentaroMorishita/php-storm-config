@@ -126,7 +126,7 @@
           <IdeaActionID>Activate構造ToolWindow</IdeaActionID>
           <ShortCut>'⌘+7'</ShortCut>
           <Description>構造</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="相対パスのコピー">
