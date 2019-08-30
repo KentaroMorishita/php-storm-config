@@ -126,7 +126,7 @@
           <IdeaActionID>Activate検索ToolWindow</IdeaActionID>
           <ShortCut>'⌘+3'</ShortCut>
           <Description>検索</Description>
-          <Count>6</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="構造">
@@ -134,7 +134,7 @@
           <IdeaActionID>Activate構造ToolWindow</IdeaActionID>
           <ShortCut>'⌘+7'</ShortCut>
           <Description>構造</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="相対パスのコピー">
