@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateプロジェクトToolWindow</IdeaActionID>
           <ShortCut>'⌘+1'</ShortCut>
           <Description>プロジェクト</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="使用箇所の検索">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>宣言</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="戻す...">
@@ -134,7 +134,7 @@
           <IdeaActionID>Activate構造ToolWindow</IdeaActionID>
           <ShortCut>'⌘+7'</ShortCut>
           <Description>構造</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="相対パスのコピー">
