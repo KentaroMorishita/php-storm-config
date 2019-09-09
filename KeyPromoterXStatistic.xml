@@ -46,7 +46,7 @@
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>バージョン管理</Description>
-          <Count>141</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="プロジェクト">
