@@ -46,7 +46,7 @@
           <IdeaActionID>Activateバージョン管理ToolWindow</IdeaActionID>
           <ShortCut>'⌘+9'</ShortCut>
           <Description>バージョン管理</Description>
-          <Count>147</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="プロジェクト">
@@ -135,6 +135,14 @@
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>相対パスのコピー</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="確認なしでシェルブ">
+        <Item>
+          <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
+          <ShortCut>'⌥⌘H'</ShortCut>
+          <Description>確認なしでシェルブ</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="行ブレークポイントの切り替え">
