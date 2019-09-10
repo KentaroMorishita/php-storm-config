@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="コピー">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>コピー</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="デフォルト・レイアウトの復元">
         <Item>
           <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
